@@ -1,4 +1,4 @@
-# Run an AVAX node and validatoron on a RaspberryPi Everest edition
+# Run an AVAX node and validator on a RaspberryPi Everest edition
 
 ## Setup
 
